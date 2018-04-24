@@ -1,5 +1,4 @@
-## 어서 오세요! 환영합니다.
-## 여기는 제이피디어의 깃허브 페이지입니다.
+## 어서 오세요! 환영합니다. 제이피디어입니다.
 
 You can use the [editor on GitHub](https://github.com/jpedia/jpedia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
